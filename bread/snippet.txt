@@ -1,7 +1,6 @@
 <model-viewer src="bread.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" auto-rotate>
-    <button class="Hotspot" slot="hotspot-1" data-position="-0.005336967948690014m -0.0032190195494487513m 0.1171741800998582m" data-normal="-0.027562415429883254m 0.5527463207627116m 0.8328936415527234m" data-visibility-attribute="visible">
-        <div class="HotspotAnnotation">波羅麵包
-        </div>
+    <button class="Hotspot" slot="hotspot-1" data-position="0.03217481433693596m 0.0008835190495587834m -0.09701567508701936m" data-normal="0.9710235935495803m 0.1017789712048045m -0.21622724571744192m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">波羅麵包</div>
     </button>
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
